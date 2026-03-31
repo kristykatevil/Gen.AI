@@ -1,4 +1,37 @@
 {
-  "projects": [],
-  "jobs": []
+  "projects": [
+    {
+      "id": "769ddb62-6a50-4a48-888d-ea5a0869a1d2",
+      "createdAt": "2026-03-30T07:18:13.213Z",
+      "updatedAt": "2026-03-30T07:18:18.742Z",
+      "name": "White Tiger",
+      "sourceType": "text",
+      "prompt": "A white tiger laying down\n",
+      "imageUrl": null,
+      "qualityPreset": "standard",
+      "outputTarget": "printable",
+      "status": "ready",
+      "primitiveType": "box",
+      "progress": 100,
+      "exportUrl": "/generated/769ddb62-6a50-4a48-888d-ea5a0869a1d2-white-tiger.stl"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "4665419b-85c2-43af-bb82-9fe13373f0ff",
+      "createdAt": "2026-03-30T07:18:13.214Z",
+      "updatedAt": "2026-03-30T07:18:13.214Z",
+      "completedAt": "2026-03-30T07:18:18.741Z",
+      "projectId": "769ddb62-6a50-4a48-888d-ea5a0869a1d2",
+      "sourceType": "text",
+      "prompt": "A white tiger laying down\n",
+      "imageUrl": null,
+      "status": "succeeded",
+      "progress": 100,
+      "qualityPreset": "standard",
+      "outputTarget": "printable",
+      "primitiveType": "box",
+      "errorMessage": null
+    }
+  ]
 }
